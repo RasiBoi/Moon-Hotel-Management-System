@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1714649104 source:c:\users\dell\desktop\st20305808\moonhotel\main.cpp
+	<iostream>
+	<conio.h>
+	<Windows.h>
+	<fstream>
+	<string>
+	<limits>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+

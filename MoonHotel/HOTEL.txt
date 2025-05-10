@@ -1,0 +1,21 @@
+
+Bill Details for NIC: Randheera
+===================================
+Name: Rasindu
+NIC: Randheera
+Phone Number: 0715680282
+Check-in Date: 2024.12.01
+Check-out Date: 2024.12.12
+Room Type: AC_Room
+Number of Nights Stayed: 11
+Total Cost: $1100.00
+-----------------------------------
+Name: Rasindu
+NIC: Randheera
+Phone Number: 0705256369
+Check-in Date: 2024.01.01
+Check-out Date: 2024.12.31
+Room Type: Single Room
+Number of Nights Stayed: 365
+Total Cost: $109500.00
+-----------------------------------
